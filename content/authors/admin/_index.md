@@ -14,12 +14,12 @@ organizations:
     url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include dialogue system and data management.
+bio: My research interest is the dialogue system.
 
 # Interests to show in About widget
 interests:
   - Dialogue System
-  - Data Management
+  - Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -65,7 +65,7 @@ highlight_name: true
 
 Hi! I'm a gap year student. Recently, I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). I'm working as an intern in [X-Lance Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our previous work mainly focuses on the dialogue system for depression diagnosis.
 
-My research interest includes dialogue system and data management. Additionally, I love coding and enjoy the process of developing applications.
+I'm super interested in research on dialogue systems. Additionally, I love coding and bringing cute applications to the world.
 
 Currently, I'm looking for a PhD position in 2023 Spring/Fall.
 
