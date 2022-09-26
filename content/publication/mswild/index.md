@@ -5,8 +5,8 @@ title: 'MSDWild: Multi­modal Speaker Diarization Dataset in the Wild'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tao Liu 
-- Shuai Fan
+- Tao Liu*
+- Shuai Fan*
 - Xu Xiang 
 - Hongbo Song 
 - Shaoxiong Lin
