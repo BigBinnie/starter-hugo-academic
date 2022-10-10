@@ -14,12 +14,13 @@ organizations:
     url: https://en.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the dialogue system and natural language processing.
+bio: My research interests include natural language processing, multi-modality interaction and data management.
 
 # Interests to show in About widget
 interests:
-  - Dialogue System
   - Natural Language Processing
+  - Multi-modality Interaction
+  - Data Management
 
 # Education to show in About widget
 education:
@@ -65,8 +66,10 @@ highlight_name: true
 
 Hi! I'm a gap year student. Recently, I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). I'm working as an intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our previous work mainly focuses on the dialogue system for depression diagnosis.
 
-I'm super interested in natural language processing, especially the dialogue system. Additionally, I love coding and bringing cute applications to the world.
+I have broad research interests including natural language processing, multi-modality interaction and data management. More specially, I'm ethusiastic about research topics which have a positive impact on the society such as [NLP for Social Good](https://nlp4sg.vercel.app/), and topics which try to integrate sociology and psychology to create more informative and empathetic maching learning models. 
+
+Additionally, I love coding and bringing cute applications to the world.
 
 Currently, I'm looking for a PhD position in 2023 Spring/Fall.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_binweiyao.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_binweiyao_10_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
