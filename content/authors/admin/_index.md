@@ -36,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:binweiyao@outlook.com
+    link: mailto:binnieyao@gmail.com
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -58,13 +58,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'binweiyao@outlook.com'
+email: 'binnieyao@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! I'm an incoming PhD student at Univeristy of Wisconsin-Madison. Currently，I'm a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab，coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from Univeristy of Wisconsin-Madison.
+Hi! I'm an incoming PhD student at CS department of Univeristy of Wisconsin-Madison. Currently，I'm a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab，coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from Univeristy of Wisconsin-Madison.
 
 I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). I'm working as an intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our work mainly focuses on the dialogue system for depression diagnosis.
 
