@@ -1,18 +1,14 @@
 ---
-title: 'D4: a Chinese Dialogue Dataset for Depression-­Diagnosis-­Oriented Chat'
+title: 'Empowering LLM-based Machine Translation with Cultural Awareness'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin *
-  - Chao Shi
-  - Likai Zou
-  - Lingfeng Dai 
-  - Lu Chen
-  - Mengyue Wu
-  - Zhen Wang
-  - Kai Yu
+  - Ming Jiang
+  - Diyi Yang
+  - Junjie Hu
 
 # Author notes (optional)
 author_notes:
@@ -29,18 +25,18 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Conference
-publication_short: EMNLP 2022 (Oral)
+publication_short: Preprint
 
-abstract: In a depression-diagnosis-directed clinical session, doctors initiate a conversation with ample emotional support that guides the patients to expose their symptoms based on clinical diagnosis criteria. Such a dialogue system is distinguished from existing single-purpose human-machine dialog systems, as it combines task-oriented and chit-chats with uniqueness in dialogue topics and procedures. However, due to the social stigma associated with mental illness, the dialogue data related to depression consultation and diagnosis are rarely disclosed. Based on clinical depression diagnostic criteria ICD-11 and DSM-5, we designed a 3-phase procedure to construct D4 - a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat, which simulates the dialogue between doctors and patients during the diagnosis of depression, including diagnosis results and symptom summary given by professional psychiatrists for each conversation. Upon the newly-constructed dataset, four tasks mirroring the depression diagnosis process are established - response generation, topic prediction, dialog summary, and severity classification of depressive episode and suicide risk. Multi-scale evaluation results demonstrate that a more empathy-driven and diagnostic-accurate consultation dialogue system trained on our dataset can be achieved compared to rule-based bots.
+abstract: Traditional neural machine translation (NMT) systems often fail to translate sentences that contain culturally specific information. Most previous NMT methods have incorporated external cultural knowledge during training, which requires fine-tuning on low-frequency items specific to the culture. Recent in-context learning utilizes lightweight prompts to guide large language models (LLMs) to perform machine translation, however, whether such an approach works in terms of injecting culture awareness into machine translation remains unclear. To this end, we introduce a new data curation pipeline to construct a culturally relevant parallel corpus, enriched with annotations of cultural-specific entities. Additionally, we design simple but effective prompting strategies to assist this LLM-based translation. Extensive experiments show that our approaches can largely help incorporate cultural knowledge into LLM-based machine translation, outperforming traditional NMT systems in translating cultural-specific sentences.
 
 # Summary. An optional shortened abstract.
 summary:  Based on clinical depression diagnostic criteria ICD-11 and DSM-5, we construct the D4-a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat which simulates the dialogue between doctors and patients during the diagnosis of depression.
 
-tags: ["dialogue system","depression diagnosis"]
+tags: ["machine translation","cultural awareness"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -50,9 +46,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2205.11764.pdf'
-url_code: 'https://github.com/BigBinnie/D4_baseline'
-url_dataset: 'https://x-lance.github.io/D4/'
+url_pdf: 'https://arxiv.org/pdf/2305.14328.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -62,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Comparison of Dialogue Types'
+  caption: 'Cultural Translation Errors'
   focal_point: ''
   preview_only: false
 

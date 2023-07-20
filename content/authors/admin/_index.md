@@ -64,12 +64,12 @@ email: 'binweiyao@outlook.com'
 highlight_name: true
 ---
 
-Hi! I'm a gap year student. Recently, I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). I'm working as an intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our previous work mainly focuses on the dialogue system for depression diagnosis.
+Hi! I'm an incoming PhD student at Univeristy of Wisconsin-Madison. Currently，I'm a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab，coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from Univeristy of Wisconsin-Madison.
+
+I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). I'm working as an intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our work mainly focuses on the dialogue system for depression diagnosis.
 
 I have broad research interests including natural language processing, multi-modality interaction and data management. More specially, I'm enthusiastic about research topics which have a positive impact on the society such as [NLP for Social Good](https://nlp4sg.vercel.app/), and topics which try to integrate sociology and psychology to create more informative and empathetic machine learning models. 
 
 Additionally, I love coding and bringing cute applications to the world.
 
-Currently, I'm looking for a PhD position in 2023 Fall.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_binweiyao_10_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_binweiyao_07_2023.pdf" "newtab" >}}CV{{< /staticref >}}.
